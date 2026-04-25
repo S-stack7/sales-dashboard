@@ -18,5 +18,8 @@ This project presents a sales dashboard built to analyze business performance an
 ## 🎯 Purpose
 The goal of this project is to practice data analysis and visualization skills.
 
+## 📸 Dashboard Preview
+![Dashboard](dashboard_image.png)
+
 ## 👤 Author
 Sakshyam Bhandari
